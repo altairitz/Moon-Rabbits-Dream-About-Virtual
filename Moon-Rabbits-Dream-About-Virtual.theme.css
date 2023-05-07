@@ -28,9 +28,6 @@
 /* Pop Effect */
 @import url("https://zuzumi-f.github.io/Moon-Rabbits-Dream-About-Virtual/release/pop.css");
 
-/* Reverse the position of Server list and members */
-@import url('https://zuzumi-f.github.io/Moon-Rabbits-Dream-About-Virtual/release/reverse.css');
-
 /*------------------------------------------------------
                 all the customization
 ------------------------------------------------------*/
@@ -39,9 +36,9 @@
     --custom-text: "";
 
     /* General Colors */
-    --border-color: #da4a60;
-    --drag-gradient1: #e8c4d3;
-    --drag-gradient2: #e39ba7;
+    --border-color: #311432;
+    --drag-gradient1: #784B84;
+    --drag-gradient2: #9966CB;
     --name-bg: #d95b72;
 
     /* Background Colors & BG Image */
