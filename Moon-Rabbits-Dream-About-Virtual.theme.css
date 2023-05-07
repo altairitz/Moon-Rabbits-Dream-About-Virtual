@@ -46,7 +46,7 @@
     --bg-gradient2: #784B84;
     --bg-gradient3: #9966CB;
     --bg-image: url(https://cdn.donmai.us/original/ab/e9/abe9b1dc23a4e84e193c0a9657c69d88.jpg); /* Write the image url, example url("your url") [none is default]*/
-    --opacity: 0.6; /* Value in numbers from 0 to 1, but there is a limit */
+    --opacity: 0.2; /* Value in numbers from 0 to 1, but there is a limit */
     --bg-blur: 6px; /* Value in px */
 
     /* HSL(Hue, Saturation, Lightness). This values will change the accent color (That blue color in most buttons) */
